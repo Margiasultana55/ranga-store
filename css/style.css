@@ -12,10 +12,12 @@ body {
 .details-btn{
   background-color: rgb(241, 151, 241);
   color: purple;
+  font-size: small;
 }
 .add-btn{
   background-color: rgba(11, 100, 11, 0.822);
   color: white;
+  font-size: small;
 }
 .btn-color{
   background-color: rgb(167, 30, 167);
